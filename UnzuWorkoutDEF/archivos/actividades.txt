@@ -1,0 +1,24 @@
+Lunes:
+	Pilates (9:00 AM 10:00 AM)
+	Yoga (10:30 AM 11:30 AM)
+	Zumba (5:00 PM 6:00 PM)
+
+Martes:
+	CrossFit (9:00 AM 10:00 AM)
+	Spinning (10:30 AM 11:30 AM)
+	Boxeo (5:00 PM 6:00 PM)
+
+Miércoles:
+	Pilates (9:00 AM 10:00 AM)
+	Yoga (10:30 AM 11:30 AM)
+	Zumba (5:00 PM 6:00 PM)
+
+Jueves:
+	CrossFit (9:00 AM 10:00 AM)
+	Spinning (10:30 AM 11:30 AM)
+	Boxeo (5:00 PM 6:00 PM)
+
+Viernes:
+	Pilates (9:00 AM 10:00 AM)
+	Yoga (10:30 AM 11:30 AM)
+	Zumba (5:00 PM 6:00 PM)
